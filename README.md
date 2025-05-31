@@ -1,4 +1,6 @@
 # Server
+### Make this project for example or template
+
 ## How to use
 ```bash
 cd build/server
