@@ -16,3 +16,10 @@ cd build/client
 Enter server IP: 127.0.0.1
 Enter server port: 7777
 ```
+
+# Build
+```bash
+mkdir build && cd build
+cmake ..
+make
+```
